@@ -1,0 +1,4 @@
+Hello there,
+This is Abdul Haseeb.
+This program demonstrate how to read a file from CommandLine, process the contents of file to find occurances of each character.
+Finally, the output is stored as file.
